@@ -1,0 +1,58 @@
+/*minify - >  css*/
+
+
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    transition: all 0.2s;
+}
+
+::-webkit-input-placeholder {
+    font-size: 14px;
+    line-height: 24px;
+    font-family: "Open Sans", sans-serif;
+    color: #898989;
+    letter-spacing: 0;
+    font-weight: 100;
+}
+
+::-moz-placeholder {
+    font-size: 14px;
+    line-height: 24px;
+    font-family: "Open Sans", sans-serif;
+    color: #898989;
+    letter-spacing: 0;
+    font-weight: 100;
+}
+
+:-moz-placeholder {
+    font-size: 14px;
+    line-height: 24px;
+    font-family: "Open Sans", sans-serif;
+    color: #898989;
+    letter-spacing: 0;
+    font-weight: 100;
+}
+
+:-ms-input-placeholder {
+    font-size: 14px;
+    line-height: 24px;
+    font-family: "Open Sans", sans-serif;
+    color: #898989;
+    letter-spacing: 0;
+    font-weight: 100;
+}
+
+::-webkit-resizer {
+    display: none;
+}
+
+body, html, a, ul, .reset, .reset * {
+    border: none;
+    list-style: none;
+    margin: 0;
+    outline: none;
+    padding: 0;
+}

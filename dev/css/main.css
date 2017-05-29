@@ -1,0 +1,11 @@
+.box {
+  color: #ffff00;
+  border-color: #ffff99;
+}
+body {
+  background-color: #923db6;
+}
+p {
+  background-color: #2d53b9;
+  box-shadow: 0 0 1px #000;
+}
